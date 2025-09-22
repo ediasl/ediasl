@@ -1,3 +1,8 @@
+![](banner.jpg)
+<h1 aligh="center"> BEM VINDO AO MEU GITHUB!</h1>
+<h1 aligh="center"> VENHA DESCOBRIR O MUNDO DA TI COMIGO!⚡</h1>
+
+  
 Sou o  **Eduardo Dias Lima**, estudante de **Técnico em Informática** no **SENAC Tatuapé**.  
 Aqui no meu GitHub você vai encontrar meus estudos, projetos e anotações da área de TI, que estou construindo aos poucos durante a minha jornada.
 
